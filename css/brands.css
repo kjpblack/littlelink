@@ -53,35 +53,35 @@
 
 /* Apple App Store */
 .button-appstore {
-	--button-text:#FFFFFF;
+	--button-text:#000000;
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
 
 /* Apple Invites */
 .button-invites {
-	--button-text:#FFFFFF;
+	--button-text:#000000;
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
 
 /* Apple Music */
 .button-apple-music {
-	--button-text:#ffffff;
+	--button-text:#000000;
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
 
 /* Apple Music Alt */
 .button-apple-music-alt {
-	--button-text:#ffffff;
+	--button-text:#000000;
 	background-image:linear-gradient(to bottom,#FB5C74,#FA233B);
 }
 
 /* Apple Podcasts */
 .button-apple-podcasts {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#cf0404;
 	--button-border:1px solid #FFFFFF;
 }
 
@@ -597,37 +597,4 @@
 .button-whatsapp {
 	--button-text:#ffffff;
 	--button-background:#455a64;
-}
-
-/* WordPress */
-.button-wordpress {
-	--button-text:#ffffff;
-	--button-background:#3858E9;
-}
-
-/* X */
-.button-x {
-	--button-text:#FFFFFF;
-	--button-background:#000000;
-	--button-border:1px solid #FFFFFF;
-}
-
-/* YouTube */
-.button-yt {
-	--button-text:#ffffff;
-	--button-background:#282828;
-	--button-border:1px solid #FFFFFF;
-}
-
-/* YouTube Alt */
-.button-yt-alt {
-	--button-text:#ffffff;
-	--button-background:#FF0000;
-}
-
-/* Zoom */
-.button-zoom {
-	--button-text:#ffffff;
-	--button-background:#0B5CFF;
-  --button-border:1px solid #FFFFFF;
 }
